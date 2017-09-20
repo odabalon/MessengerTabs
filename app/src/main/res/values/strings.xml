@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Science PH</string>
+
+    <string-array name="status">
+        <item>Lost</item>
+        <item>Matched</item>
+    </string-array>
+
+
+</resources>
